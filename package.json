@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "Alejandra Flaño",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
 }
